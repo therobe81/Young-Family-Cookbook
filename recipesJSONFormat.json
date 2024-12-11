@@ -1,0 +1,1540 @@
+[
+    {
+        "title": "Delicious Dinner Rolls",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Bread",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 package dry yeast",
+            "¼ cup warm water",
+            "¼ cup shortening",
+            "¼ cup butter or margarine",
+            "½ cup honey",
+            "2 tsp salt",
+            "2 cups scalded milk",
+            "3 cups sifted enriched flour",
+            "2 beaten eggs",
+            "2 cups cornmeal",
+            "3-4 cups sifted enriched flour (additional)",
+            "4 Tbsp honey (for coating)",
+            "4 Tbsp butter (for coating)"
+        ],
+        "instructions": [
+            "Soften yeast in warm water.",
+            "Combine shortening, butter, honey, and salt in a large mixing bowl. Pour scalded milk over this mixture and let cool to lukewarm.",
+            "Add 3 cups of flour, eggs, and the yeast mixture. Beat until smooth.",
+            "Mix in cornmeal and enough additional flour to form a soft dough. Knead for at least 10 minutes.",
+            "Place dough in a greased bowl, turning once to grease the surface. Cover and let rise until doubled (about 1 ½ hours). Punch down.",
+            "Shape dough into small balls. Dip each ball into melted butter and honey. Place 2-3 balls in greased muffin cups. Cover and let rise until doubled (about 1 hour).",
+            "Bake at 375°F for 15-18 minutes or until golden brown."
+        ],
+        "serves": "12-16 (approximately 24-36 rolls)",
+        "image": "Images/foodPics/dinner-rolls.jpg"
+    },
+    {
+        "title": "Baked Corn",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Side Dish",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 can whole kernel corn, drained",
+            "1 can cream-style corn",
+            "1 egg, beaten",
+            "1 stick margarine or butter, melted",
+            "1 box Jiffy corn muffin mix"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "Mix all ingredients in a large bowl until well combined.",
+            "Pour mixture into a greased 9x13-inch baking dish.",
+            "Bake for 1 hour or until the top is golden and set."
+        ],
+        "serves": "6-8",
+        "image": "Images/foodPics/baked-corn.jpg"
+    },
+    {
+        "title": "Lemon Love Notes",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "½ cup butter",
+            "1 cup flour",
+            "1 cup powdered sugar (for crust)",
+            "2 Tbsp lemon juice",
+            "Grated rind of 1 lemon",
+            "2 eggs, beaten",
+            "1 cup sugar",
+            "½ tsp baking powder",
+            "½ tsp vanilla",
+            "1 ½ tsp milk",
+            "1 cup powdered sugar (for glaze)",
+            "1 Tbsp butter (softened, for glaze)"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "Blend butter, flour, and powdered sugar. Press into a 9-inch square pan. Bake for 14 minutes. Cool completely.",
+            "Mix lemon juice, lemon rind, eggs, sugar, flour, and baking powder in a bowl. Pour mixture over baked crust.",
+            "Return to oven and bake for an additional 25 minutes. Cool.",
+            "Prepare glaze by mixing powdered sugar, vanilla, softened butter, and milk until smooth. Spread glaze over the baked mixture.",
+            "Cut into bars and serve."
+        ],
+        "serves": "16-20 bars",
+        "image": "Images/foodPics/lemon-bars.jpg"
+    },
+    {
+        "title": "Cherry Cream Cheese Pie",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 (6oz) graham cracker crust",
+            "1 (8oz) package cream cheese, softened",
+            "1 (14oz) can sweetened condensed milk",
+            "⅓ cup lemon juice (freshly squeezed preferred)",
+            "1 tsp vanilla extract",
+            "1 (21oz) can cherry pie filling"
+        ],
+        "instructions": [
+            "Beat cream cheese until light and fluffy. Gradually add sweetened condensed milk and mix until smooth.",
+            "Stir in lemon juice and vanilla extract.",
+            "Pour mixture into the graham cracker crust.",
+            "Chill in the refrigerator for at least 3 hours, or until firm.",
+            "Top with cherry pie filling before serving."
+        ],
+        "serves": "6-8 slices",
+        "image": "Images/foodPics/cherry-cheese-cream-pie.jpg"
+    },
+    {
+        "title": "Snickerdoodles",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "½ cup butter",
+            "½ cup shortening",
+            "1 ½ cups sugar",
+            "2 eggs",
+            "2 ¾ cups flour",
+            "2 tsp cream of tartar",
+            "1 tsp baking soda",
+            "¼ tsp salt",
+            "2 Tbsp sugar (for coating)",
+            "2 tsp cinnamon (for coating)"
+        ],
+        "instructions": [
+            "Preheat oven to 400°F.",
+            "Cream together butter, shortening, and sugar. Beat in eggs until well combined.",
+            "Mix in flour, cream of tartar, baking soda, and salt to form dough. Refrigerate until firm.",
+            "Combine 2 Tbsp sugar and 2 tsp cinnamon in a small bowl.",
+            "Roll dough into small balls, then coat in the cinnamon-sugar mixture.",
+            "Place on ungreased baking sheets, about 2 inches apart. Bake for 8-10 minutes or until light brown."
+        ],
+        "serves": "Makes about 3 dozen cookies",
+        "image": "Images/foodPics/snickerdoodles.jpg"
+    },
+    {
+        "title": "Salmon Loaf",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 can salmon, flaked",
+            "½ cup cracker crumbs",
+            "4 egg yolks, beaten",
+            "4 Tbsp melted butter",
+            "½ tsp salt",
+            "½ tsp pepper",
+            "4 egg whites, beaten until stiff"
+        ],
+        "instructions": [
+            "Preheat oven to 300°F.",
+            "Mix salmon, cracker crumbs, egg yolks, melted butter, salt, and pepper in a bowl.",
+            "Gently fold in beaten egg whites.",
+            "Pour mixture into a greased loaf pan.",
+            "Bake for 1 hour, or until set and lightly browned."
+        ],
+        "serves": "4-6",
+        "image": "Images/foodPics/salmon-loaf.jpg"
+    },
+    {
+        "title": "Sherry Beef",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "3 lbs stewing beef, cubed",
+            "3 cans cream of mushroom soup",
+            "1 envelope dry onion soup mix",
+            "¾ cup cooking sherry or wine",
+            "1 tsp Kitchen Bouquet (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325°F.",
+            "Combine cream of mushroom soup, onion soup mix, cooking sherry, and Kitchen Bouquet in a bowl. Mix well.",
+            "Place beef in a large baking dish and pour the mixture over it. Cover tightly with foil.",
+            "Bake for 4 hours, stirring occasionally.",
+            "Serve over rice or noodles."
+        ],
+        "serves": "6-8",
+        "image": "Images/foodPics/sherry-beef.jpg"
+    },
+    {
+        "title": "Zucchini Bake",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 lb ground beef, browned",
+            "2 ½ cups sliced zucchini",
+            "4 Tbsp butter or margarine",
+            "1 (3 oz) can sliced mushrooms, drained",
+            "½ cup chopped onion",
+            "½ cup chopped green pepper",
+            "1 can spaghetti sauce",
+            "1 cup water"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "In a large bowl, mix all ingredients until well combined.",
+            "Pour into a greased 9x13-inch casserole dish.",
+            "Bake for 1 hour or until vegetables are tender."
+        ],
+        "serves": "6-8",
+        "image": "Images/foodPics/zucchini-bake.jpg"
+    },
+    {
+        "title": "Deep-Dish Taco Squares",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": {
+            "dough": [
+                "1 package active dry yeast",
+                "1 cup warm water",
+                "2 ½ cups flour",
+                "2 Tbsp cooking oil",
+                "1 tsp sugar",
+                "1 tsp salt"
+            ],
+            "filling": [
+                "½ lb ground beef, browned and drained",
+                "½ cup sour cream",
+                "⅓ cup mayonnaise",
+                "½ cup shredded sharp cheddar cheese",
+                "1 Tbsp chopped onion",
+                "2 medium tomatoes, sliced",
+                "½ cup chopped green pepper"
+            ]
+        },
+        "instructions": [
+            "For the dough: Dissolve yeast in warm water. Stir in flour, oil, sugar, and salt. Beat for 25 strokes. Cover and let rest for 5 minutes.",
+            "Preheat oven to 350°F.",
+            "Roll out dough and press into the bottom of a greased 9x13-inch pan.",
+            "For the filling: Spread browned beef over the dough. Layer tomatoes and green pepper on top.",
+            "Mix sour cream, mayonnaise, cheese, and onion. Spoon mixture over the top.",
+            "Bake for 25-30 minutes, or until the crust is golden and the toppings are bubbly."
+        ],
+        "serves": "6-8",
+        "image": "Images/foodPics/taco-squares.jpg"
+    },
+    {
+        "title": "Chicken Casserole",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "3 chicken breasts, cooked and chopped",
+            "2 cups chicken broth",
+            "1 can cream of mushroom soup",
+            "1 can cream of chicken soup",
+            "1 package Pepperidge Farm Herb Seasoning Mix"
+        ],
+        "instructions": [
+            "Preheat oven to 400°F.",
+            "Mix chicken, broth, cream of mushroom soup, cream of chicken soup, and half the herb seasoning mix in a bowl.",
+            "Pour mixture into a greased 9x13-inch casserole dish. Sprinkle remaining herb seasoning mix evenly over the top.",
+            "Bake for 30-40 minutes, or until bubbly and heated through."
+        ],
+        "serves": "6-8",
+        "image": "Images/foodPics/chicken-casserole.jpg"
+    },
+    {
+        "title": "Salisbury Steak",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 lb ground beef",
+            "⅓ cup dry bread crumbs",
+            "½ tsp salt",
+            "¼ tsp pepper",
+            "1 egg",
+            "1 large onion, sliced",
+            "1 can (10 oz) beef broth",
+            "1 can (4 oz) mushrooms, drained",
+            "2 Tbsp cold water",
+            "2 tsp cornstarch"
+        ],
+        "instructions": [
+            "Mix ground beef, bread crumbs, salt, pepper, and egg. Shape into 4 oval patties about ¾ inch thick.",
+            "Cook patties in a 10-inch skillet over medium heat, turning occasionally, until browned (about 10 minutes). Drain.",
+            "Add onion, broth, and mushrooms to the skillet. Bring to a boil, then reduce heat. Cover and simmer until patties are cooked through (about 10 minutes).",
+            "Remove patties and keep warm. Bring onion mixture to a boil. Mix water and cornstarch, then stir into the onion mixture. Boil and stir for 1 minute, or until thickened.",
+            "Serve gravy over patties."
+        ],
+        "serves": "4 patties (4 servings)",
+        "image": "Images/foodPics/salisbury-steak.jpg"
+    },
+    {
+        "title": "Vegetable Salad",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Salad/Dressing",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "1 can shoe-peg (white) corn, drained",
+            "1 can baby peas, drained",
+            "1 can French-style green beans, drained",
+            "1 can pimento (optional), diced",
+            "1 onion, chopped",
+            "1 mango, chopped",
+            "1 celery stalk, chopped",
+            "Salt and pepper to taste",
+            "1 cup sugar",
+            "½ cup vinegar",
+            "½ cup salad oil"
+        ],
+        "instructions": [
+            "Heat sugar, vinegar, salad oil, salt, and pepper in a saucepan until sugar dissolves. Remove from heat and cool.",
+            "Combine all vegetables in a large bowl. Pour dressing over vegetables and mix well.",
+            "Cover and refrigerate for at least 2 hours before serving."
+        ],
+        "serves": "8-10",
+        "image": "Images/foodPics/vegetable-salad.jpg"
+    },
+    {
+        "title": "Pie with Filling",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": {
+            "filling": [
+                "1 ¼ cups sugar",
+                "2 tablespoons flour",
+                "2–3 cups fruit of choice (e.g., apples, cherries, or peaches)"
+            ],
+            "crust": [
+                "½ cup bacon grease or shortening",
+                "1 ½ cups flour (approximate)",
+                "4–6 tablespoons water"
+            ],
+            "meringue": [
+                "2 egg whites",
+                "¼ cup sugar",
+                "Pinch of cream of tartar"
+            ]
+        },
+        "instructions": [
+            "Pie Crust: Combine bacon grease or shortening, flour, and water in a mixing bowl. Add just enough water to form a cohesive dough.",
+            "Roll out the dough on a floured surface and fit it into a pie pan. Trim any excess dough from the edges.",
+            "Filling: In a saucepan, mix sugar, flour, and fruit of choice. Heat over medium flame, stirring constantly until the mixture thickens slightly.",
+            "Pour the filling into the prepared pie crust.",
+            "Meringue: In a clean mixing bowl, combine egg whites, sugar, and cream of tartar. Beat with an electric mixer until stiff peaks form.",
+            "Spread the meringue over the fruit filling, sealing it to the edges of the crust to prevent shrinking.",
+            "Baking: Preheat oven to 350°F. Bake the pie for 12–15 minutes, or until the meringue is golden brown."
+        ],
+        "serves": "6-8 slices",
+        "image": "Images/foodPics/pie-with-filling.jpg"
+    },
+    {
+        "title": "Aunt Connie’s Salad Dressing",
+        "kitchen": [
+            "Aunt Connie"
+        ],
+        "type": "Salad/Dressing",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "1/8 cup vinegar",
+            "1/8 cup oil",
+            "1 saccharin tablet",
+            "1 teaspoon sugar (approximately)",
+            "Pinch of salt"
+        ],
+        "instructions": [
+            "Mix all ingredients in a small cup for approximately 5 minutes until well combined.",
+            "Pour over lettuce or salad greens."
+        ],
+        "serves": "2–4",
+        "image": "Images/foodPics/aunt-connie-salad-dressing.jpg"
+    },
+    {
+        "title": "Twinkie Cake",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "8 Twinkies",
+            "1 large box vanilla instant pudding mix",
+            "1 small can crushed pineapple (drained)",
+            "2 bananas, sliced",
+            "8 oz Cool Whip",
+            "1 cup pecans, chopped"
+        ],
+        "instructions": [
+            "Slice Twinkies in half lengthwise and place them in the bottom of a 9x13 dish as the first layer.",
+            "Prepare pudding according to package instructions and spread it over the Twinkies.",
+            "Evenly layer the drained pineapple and banana slices over the pudding.",
+            "Spread Cool Whip over the top, then sprinkle with chopped pecans.",
+            "Cover and refrigerate for at least 1 hour before serving."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/twinkie-cake.jpg"
+    },
+    {
+        "title": "Scotch-a-Roos",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": {
+            "bars": [
+                "1 cup sugar",
+                "1 cup light corn syrup",
+                "4 tablespoons butter or margarine",
+                "½ cup peanut butter",
+                "7 cups Rice Crispies"
+            ],
+            "glaze": [
+                "6 oz chocolate chips",
+                "12 oz butterscotch chips",
+                "½ cup peanut butter"
+            ]
+        },
+        "instructions": [
+            "In a large saucepan, mix sugar, corn syrup, and butter. Bring to a boil, then remove from heat.",
+            "Stir in peanut butter until smooth. Mix in Rice Crispies until evenly coated.",
+            "Press the mixture into a greased 9x13 pan.",
+            "Slowly melt glaze ingredients (chocolate chips, butterscotch chips, and peanut butter) in a double boiler or microwave, stirring until smooth.",
+            "Spread the glaze over the bars and let cool completely before cutting into squares."
+        ],
+        "serves": "20–24",
+        "image": "Images/foodPics/scotcharoos.jpg"
+    },
+    {
+        "title": "Minerva’s Gourmet Bean Soup",
+        "kitchen": [
+            "Robinson Minerva Club"
+        ],
+        "type": "Soup",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 large onion, chopped",
+            "1 quart (or 28 oz can) of tomatoes",
+            "1 teaspoon chili powder",
+            "Juice of 1 lemon",
+            "2 cups dried beans (e.g., navy, pinto, or kidney)",
+            "1–2 ham hocks or 2 cups diced ham",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Wash beans thoroughly and place them in a large kettle. Cover with water and add 2 tablespoons salt. Soak overnight.",
+            "The next day, drain the beans, then add 2 quarts water and ham hocks or diced ham. Bring to a boil, then reduce heat and simmer for 2½ to 3 hours.",
+            "Add onion, tomatoes, chili powder, lemon juice, salt, and pepper. Stir well and simmer for another hour.",
+            "Serve hot with cornbread or crackers and a green salad."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/bean-soup.jpg"
+    },
+    {
+        "title": "“No Bake” Cereal Cookies",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "½ cup brown sugar",
+            "½ cup light corn syrup",
+            "1 teaspoon vanilla",
+            "¾ cup peanut butter",
+            "3 cups ready-to-eat cereal flakes (e.g., Apple-Raisin Crisp)",
+            "1 cup flaked coconut"
+        ],
+        "instructions": [
+            "Combine brown sugar and corn syrup in a saucepan. Heat to a boil, stirring frequently.",
+            "Remove from heat and stir in vanilla and peanut butter until smooth.",
+            "Add cereal flakes and coconut, stirring until fully combined.",
+            "Drop by teaspoonfuls onto waxed paper. Let cool until set.",
+            "Store in the refrigerator to keep fresh."
+        ],
+        "serves": "Makes 2–3 dozen",
+        "image": "Images/foodPics/cereal-cookies.jpg"
+    },
+    {
+        "title": "Peanut Chocolate Date Cookies",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "½ cup butter",
+            "½ cup sugar",
+            "1 cup brown sugar",
+            "½ cup chunky peanut butter",
+            "3 eggs",
+            "½ cup water",
+            "1 teaspoon vanilla",
+            "1 cup flour",
+            "1 teaspoon salt",
+            "½ teaspoon baking soda",
+            "3 cups uncooked rolled oats",
+            "1 cup dates, chopped",
+            "1 cup chocolate chips"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "Cream butter, sugar, and peanut butter together. Add eggs, water, and vanilla, and beat until creamy.",
+            "Sift together flour, salt, and baking soda, then gradually mix into the creamed mixture.",
+            "Stir in oats, dates, and chocolate chips until evenly combined.",
+            "Drop by teaspoonfuls onto a greased cookie sheet.",
+            "Bake for 10–12 minutes or until lightly browned."
+        ],
+        "serves": "About 5 dozen cookies",
+        "image": "Images/foodPics/peanut-chocolate-date-cookies.jpg"
+    },
+    {
+        "title": "Aunt Janie’s Chili",
+        "kitchen": [
+            "Aunt Janie"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 onion, chopped",
+            "1 lb ground chuck, browned",
+            "2 cups cooked red kidney beans",
+            "12 oz jar tomato ketchup",
+            "1 tablespoon chili powder (adjust to taste)",
+            "½ cup diced green peppers (optional)",
+            "1 packet Lipton onion soup mix (optional)"
+        ],
+        "instructions": [
+            "In a large skillet, brown ground chuck. Add chopped onion halfway through cooking and sauté until soft. Drain excess fat.",
+            "Combine ground chuck mixture with all remaining ingredients in a large pot.",
+            "Simmer over medium-low heat for 1–2 hours, stirring occasionally."
+        ],
+        "serves": "4",
+        "image": "Images/foodPics/aunt-janie-chili.jpg"
+    },
+    {
+        "title": "Cream of Broccoli & Cauliflower Soup",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Soup",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "2 cups cooked broccoli and cauliflower, chopped",
+            "3 onion slices",
+            "3 tablespoons flour",
+            "1 ½ teaspoons salt",
+            "Dash of pepper",
+            "3 cups milk",
+            "½ cup Velveeta cheese (optional)",
+            "¼ cup Cheese Whiz (optional)"
+        ],
+        "instructions": [
+            "In a saucepan, heat butter and onion. Simmer for 5 minutes, then stir in flour, salt, and pepper. Remove from heat.",
+            "Slowly whisk in milk, then return to heat and simmer until the soup thickens to your desired consistency.",
+            "Optional: Stir in Velveeta and Cheese Whiz until melted for a creamy cheese flavor."
+        ],
+        "serves": "4–6",
+        "image": "Images/foodPics/cream-of-broccoli-soup.jpg"
+    },
+    {
+        "title": "Minestrone",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Soup",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 cups soaked and drained beans (e.g., navy, cannellini, or kidney)",
+            "1 lb ground beef",
+            "2 quarts chicken broth",
+            "2 cans stewed tomatoes with juice",
+            "1 large onion, chopped",
+            "1 clove garlic, minced",
+            "½ cup diced green pepper",
+            "1 cup celery, chopped",
+            "1 cup carrots, sliced",
+            "1 cup zucchini, chopped",
+            "½ cup elbow macaroni",
+            "½ teaspoon thyme",
+            "½ teaspoon basil",
+            "½ teaspoon oregano",
+            "½ teaspoon marjoram",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "In a large pot, sauté ground beef, onion, and garlic until browned. Drain fat.",
+            "Add chicken broth, tomatoes, green pepper, celery, carrots, and herbs. Bring to a boil.",
+            "Add soaked and drained beans. Reduce heat and simmer for 2–3 hours.",
+            "Add macaroni and zucchini during the last 30 minutes of cooking. Simmer until tender.",
+            "Serve topped with grated Parmesan cheese and parsley."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/minestrone-soup.jpg"
+    },
+    {
+        "title": "Light Bread",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Bread",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "½ cup sugar",
+            "½ cup margarine or butter",
+            "2 teaspoons salt",
+            "1 cup hot milk",
+            "2 beaten eggs",
+            "2 packages active dry yeast",
+            "1 cup warm water (110–115°F)",
+            "6 to 6 ½ cups all-purpose flour"
+        ],
+        "instructions": [
+            "In a large bowl, combine sugar, margarine, and salt. Add hot milk and stir to soften margarine. Cool to lukewarm.",
+            "Beat in eggs. Soften yeast in warm water, then stir into the mixture.",
+            "Add 3 cups of flour and beat until smooth. Gradually mix in enough remaining flour to form a soft dough.",
+            "Knead on a floured surface until smooth (8–10 minutes). Place in a greased bowl, turning once to grease the surface. Cover and let rise until doubled, about 1 ¼ hours.",
+            "Punch down, let rest for 10 minutes, and shape into rolls or loaves.",
+            "Let rise overnight in a greased pan. Bake at 350°F until golden brown."
+        ],
+        "serves": "12–16",
+        "image": "Images/foodPics/light-bread.jpg"
+    },
+    {
+        "title": "Honey Nut White Fudge",
+        "kitchen": [
+            "Dr. Nestle Toll House"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "2 tablespoons butter or margarine",
+            "⅔ cup Carnation evaporated milk",
+            "1 ½ cups granulated sugar",
+            "2 cups miniature marshmallows",
+            "2 cups (12 oz) Nestle Toll House Premier White Morsels",
+            "1 ½ cups honey roasted peanuts, divided",
+            "2 teaspoons vanilla extract"
+        ],
+        "instructions": [
+            "Combine butter, evaporated milk, and sugar in a medium heavy-duty saucepan. Bring to a full rolling boil over medium heat, stirring constantly. Boil for 4½–5 minutes, stirring constantly. Remove from heat.",
+            "Stir in marshmallows, white morsels, 1 cup peanuts, and vanilla. Mix vigorously until marshmallows are melted.",
+            "Pour into a foil-lined 9-inch square baking pan.",
+            "Coarsely chop remaining peanuts and sprinkle over the fudge, pressing them in slightly.",
+            "Chill until firm, then remove foil and cut into squares."
+        ],
+        "serves": "Makes about 5 dozen pieces",
+        "image": "Images/foodPics/honey-nut-white-fudge.jpg"
+    },
+    {
+        "title": "French Toast Casserole",
+        "kitchen": [
+            "Kim Shaffer"
+        ],
+        "type": "Breakfast",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "8 eggs",
+            "3 cups milk",
+            "4 teaspoons sugar",
+            "1 tablespoon vanilla",
+            "2 tablespoons butter",
+            "1 loaf French bread, sliced 1 inch thick",
+            "Dash of cinnamon",
+            "Dash of salt"
+        ],
+        "instructions": [
+            "Beat eggs, milk, sugar, vanilla, cinnamon, and salt in a large mixing bowl.",
+            "Grease a 9x13 baking dish with butter. Arrange bread slices flat in the dish.",
+            "Pour the egg mixture over the bread, ensuring all pieces are well-soaked. Turn bread to coat both sides.",
+            "Dot with small pieces of butter and sprinkle with additional cinnamon, if desired.",
+            "Cover and refrigerate overnight.",
+            "Preheat oven to 350°F. Bake for 45–50 minutes, or until golden brown."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/french-toast-casserole.jpg"
+    },
+    {
+        "title": "Mandarin-Lettuce Salad",
+        "kitchen": [
+            "Lori Young",
+            "Aunt Kathy"
+        ],
+        "type": "Salad/Dressing",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "Lettuce",
+            "1 can mandarin oranges, drained",
+            "¼ cup oil",
+            "2 tablespoons vinegar",
+            "2 tablespoons sugar",
+            "Pinch of parsley",
+            "Pinch of salt",
+            "¼ cup slivered almonds, toasted with sugar"
+        ],
+        "instructions": [
+            "In a large bowl, combine lettuce, mandarin oranges, and sugared almonds.",
+            "For the dressing, whisk together oil, vinegar, sugar, parsley, and salt. Refrigerate until cold.",
+            "Pour dressing over salad just before serving."
+        ],
+        "serves": "4–6",
+        "image": "Images/foodPics/mandarin-lettuce-salad.jpg"
+    },
+    {
+        "title": "Wienie Dish",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Appetizer",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 lbs wieners, sliced",
+            "2 bottles Heinz chili sauce",
+            "½ cup grape jelly"
+        ],
+        "instructions": [
+            "Place wieners in a crockpot.",
+            "Add chili sauce and grape jelly, stirring to combine.",
+            "Cook on high for 3 hours, stirring occasionally."
+        ],
+        "serves": "10–12 as an appetizer",
+        "image": "Images/foodPics/wienie-dish.jpg"
+    },
+    {
+        "title": "Taco Bake",
+        "kitchen": [
+            "Lori Young",
+            "Aunt Kathy"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 package crescent rolls",
+            "1½ bags tortilla chips, crushed",
+            "1 lb ground beef",
+            "1 packet taco seasoning",
+            "1 jar salsa",
+            "1 cup sour cream",
+            "1½ cups shredded cheddar cheese"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "Brown ground beef in a skillet. Add taco seasoning and cook according to package instructions.",
+            "Grease a 9x13 baking dish with cooking spray. Layer the bottom with crescent rolls.",
+            "Add crushed tortilla chips over the crescent rolls, followed by ground beef, salsa, sour cream, and shredded cheese.",
+            "Top with an additional layer of crushed tortilla chips.",
+            "Bake for 25–30 minutes, or until bubbly and golden."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/taco-bake.jpg"
+    },
+    {
+        "title": "Tea Syrup",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Beverage",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "1 cup loose tea leaves",
+            "1 gallon water",
+            "7 cups sugar"
+        ],
+        "instructions": [
+            "Bring water to a rolling boil. Pour over loose tea leaves in a heatproof container. Let steep for 10 minutes, then strain.",
+            "Mix strained tea with sugar until dissolved. Allow to cool, then store in a glass container in the refrigerator.",
+            "To make tea: Combine 2 cups tea syrup with 6 cups cold water. Adjust sweetness to taste."
+        ],
+        "serves": "Makes approximately 1 gallon of tea concentrate",
+        "image": "Images/foodPics/tea-concentrate.jpeg"
+    },
+    {
+        "title": "Homemade Gravy",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Sauce/Gravy",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2–3 tablespoons flour",
+            "2–3 cups milk (adjust for desired consistency)",
+            "2–3 tablespoons bacon grease (or steak/chicken grease)",
+            "1 teaspoon salt",
+            "1 teaspoon pepper",
+            "Pinch of sugar"
+        ],
+        "instructions": [
+            "In a skillet, heat bacon grease over medium heat. Stir in flour, salt, pepper, and sugar, and cook until the mixture turns golden brown.",
+            "Slowly add milk while stirring continuously.",
+            "Cook and stir until the mixture thickens to your desired consistency.",
+            "Serve hot over biscuits."
+        ],
+        "serves": "4–6",
+        "image": "Images/foodPics/homemade-gravy.jpg"
+    },
+    {
+        "title": "Bacon & Eggs Macaroni",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 box Kraft Mac & Cheese",
+            "3 hard-cooked eggs, chopped",
+            "6 slices bacon, crisply cooked and crumbled"
+        ],
+        "instructions": [
+            "Prepare Kraft Mac & Cheese according to package directions, using only ½ cup milk.",
+            "Stir in chopped eggs and crumbled bacon. Mix lightly.",
+            "Heat thoroughly, stirring occasionally."
+        ],
+        "serves": "4–6",
+        "image": "Images/foodPics/bacon-eggs-macaroni.jpg"
+    },
+    {
+        "title": "Brandy Balls",
+        "kitchen": [
+            "Donna Clark"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 can (6 oz) evaporated milk",
+            "1 package (6 oz) semi-sweet chocolate chips",
+            "2 ½ cups crushed vanilla wafers (about 64 wafers)",
+            "½ cup sifted confectioners' sugar",
+            "1 ¼ cups chopped pecans, divided",
+            "⅓ cup brandy"
+        ],
+        "instructions": [
+            "In a saucepan, combine milk and chocolate chips. Cook over low heat, stirring until melted, smooth, and thickened. Remove from heat.",
+            "Stir in crushed wafers, confectioners' sugar, ½ cup pecans, and brandy. Mix well. Let stand at room temperature for 30 minutes.",
+            "Shape into 1-inch balls. Roll each ball in the remaining chopped pecans.",
+            "Refrigerate for 1 hour or until firm. Optional: Roll balls in coconut for variety."
+        ],
+        "serves": "Makes about 3 dozen",
+        "image": "Images/foodPics/brandy-balls.jpg"
+    },
+    {
+        "title": "Cranberry Bread",
+        "kitchen": [
+            "Marilyn Bigger"
+        ],
+        "type": "Bread",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 cups flour",
+            "2 tablespoons melted shortening",
+            "1 cup sugar",
+            "1 egg",
+            "½ teaspoon baking soda",
+            "½ teaspoon baking powder",
+            "2 tablespoons hot water",
+            "½ teaspoon salt",
+            "½ cup orange juice",
+            "1 cup cranberries, halved",
+            "1 cup nuts, chopped"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F. Grease a loaf pan.",
+            "In a mixing bowl, combine flour, shortening, sugar, egg, baking soda, baking powder, water, salt, and orange juice. Mix until well blended.",
+            "Fold in cranberries and nuts.",
+            "Pour batter into the prepared loaf pan and bake for 1 hour, or until a toothpick inserted in the center comes out clean."
+        ],
+        "serves": "Makes 1 loaf (8–10 slices)",
+        "image": "Images/foodPics/cranberry-bread.jpg"
+    },
+    {
+        "title": "Poppy Seed Bread",
+        "kitchen": [
+            "Marilyn Bigger"
+        ],
+        "type": "Bread",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 yellow cake mix",
+            "1 package coconut instant pudding",
+            "4 eggs",
+            "½ cup oil",
+            "1 cup water",
+            "1 tablespoon poppy seeds"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F. Grease small loaf pans (disposable pans are ideal).",
+            "In a large bowl, combine all ingredients. Mix with an electric mixer for 4 minutes.",
+            "Divide the batter evenly among the greased loaf pans.",
+            "Bake for 45–55 minutes, or until a toothpick inserted in the center comes out clean."
+        ],
+        "serves": "Makes 3 small loaves",
+        "image": "Images/foodPics/poppy-seed-bread.jpg"
+    },
+    {
+        "title": "Oven Pie for Nachos",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Appetizer",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "8 oz cream cheese (softened)",
+            "1 can (15 oz) Hormel No Bean Chili",
+            "1 cup shredded cheese (e.g., cheddar or Mexican blend)"
+        ],
+        "instructions": [
+            "Preheat oven to 450°F. Grease a pie plate.",
+            "Spread cream cheese evenly on the bottom of the pie plate.",
+            "Add the chili as the next layer, then top with shredded cheese.",
+            "Bake for 10–15 minutes, or until the cheese is melted and bubbly.",
+            "Serve hot with tortilla chips."
+        ],
+        "serves": "4–6",
+        "image": "Images/foodPics/oven-nachos.jpg"
+    },
+    {
+        "title": "Zucchini Bread",
+        "kitchen": [
+            "Lori Young",
+            "Janice Loveless"
+        ],
+        "type": "Bread",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 cup vegetable oil",
+            "2 cups sugar",
+            "3 eggs",
+            "3 teaspoons vanilla",
+            "2 cups grated zucchini (peeled and seeds removed)",
+            "1 teaspoon salt",
+            "2 teaspoons baking soda",
+            "¼ teaspoon baking powder",
+            "3 teaspoons cinnamon",
+            "2 ½ cups flour"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F. Grease two loaf pans.",
+            "In a large bowl, mix grated zucchini, oil, sugar, eggs, and vanilla.",
+            "In a separate bowl, sift together salt, baking soda, baking powder, cinnamon, and flour.",
+            "Gradually mix the dry ingredients into the wet ingredients until combined.",
+            "Divide batter evenly between the loaf pans.",
+            "Bake for 1 hour, or until a toothpick inserted in the center comes out clean."
+        ],
+        "serves": "Makes 2 loaves (8–10 slices each)",
+        "image": "Images/foodPics/zucchini-bread.jpg"
+    },
+    {
+        "title": "Hamburger Casserole",
+        "kitchen": [
+            "Marilyn Bigger"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 tablespoons shortening",
+            "1 lb ground chuck",
+            "1 large onion, finely chopped",
+            "1 can (15 oz) tomatoes",
+            "½ cup ketchup",
+            "1 can (15 oz) tomato sauce",
+            "2 tablespoons A1 sauce (or other steak sauce)",
+            "¼ cup chopped bell pepper",
+            "2 tablespoons parsley",
+            "Garlic salt, salt, and pepper to taste",
+            "1 teaspoon Worcestershire sauce",
+            "8 oz macaroni noodles, cooked and drained",
+            "1 can (10 oz) cream of mushroom soup",
+            "1 cup sour cream (optional)",
+            "1 cup shredded cheddar cheese"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F.",
+            "In a large skillet, heat shortening and brown the ground chuck with onions until cooked. Drain any excess grease.",
+            "In a large bowl, combine browned beef, tomatoes, ketchup, tomato sauce, steak sauce, bell pepper, parsley, seasonings, mushroom soup, sour cream, and cooked macaroni. Mix well.",
+            "Pour mixture into a greased casserole dish. Top with shredded cheese.",
+            "Bake for 25–30 minutes, or until the cheese is melted and bubbly. Cover with foil and keep warm in the oven until ready to serve."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/hamburger-casserole.jpg"
+    },
+    {
+        "title": "Very Special Chocolate Chip Cookie Recipe",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 cups butter",
+            "2 cups sugar",
+            "2 cups brown sugar",
+            "4 eggs",
+            "2 teaspoons vanilla",
+            "4 cups flour",
+            "5 cups oatmeal, finely ground in a food processor",
+            "1 teaspoon salt",
+            "2 teaspoons baking powder",
+            "2 teaspoons baking soda",
+            "24 oz chocolate chips",
+            "3 cups chopped nuts (any kind)"
+        ],
+        "instructions": [
+            "Preheat oven to 375°F.",
+            "Cream together butter, sugar, and brown sugar until fluffy. Add eggs and vanilla, mixing well.",
+            "Gradually mix in flour, salt, baking powder, baking soda, and processed oatmeal.",
+            "Fold in chocolate chips and nuts.",
+            "Roll dough into golf-ball-sized balls and place on ungreased cookie sheets, 2 inches apart.",
+            "Bake for 6–8 minutes, or until lightly golden."
+        ],
+        "serves": "Makes about 112 cookies",
+        "image": "Images/foodPics/very-special-chocolate-chip-cookies.jpg"
+    },
+    {
+        "title": "Peanut Butter Honey Bars",
+        "kitchen": [
+            "Classroom Food News"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "½ cup honey (warmed)",
+            "½ cup powdered milk",
+            "1 teaspoon vanilla",
+            "½ cup peanut butter",
+            "4 cups Rice Krispies or other cereal"
+        ],
+        "instructions": [
+            "In a large bowl, mix warmed honey with powdered milk until smooth.",
+            "Stir in vanilla and peanut butter until combined.",
+            "Gradually mix in Rice Krispies, ensuring all are coated.",
+            "Press mixture into a greased 8x8 pan. Allow to cool and set before cutting into bars."
+        ],
+        "serves": "12–16 bars",
+        "image": "Images/foodPics/peanut-butter-honey-bars.jpg"
+    },
+    {
+        "title": "Cheesecake",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": {
+            "crust": [
+                "16 graham crackers, crushed",
+                "⅛ lb butter",
+                "2 tablespoons sugar"
+            ],
+            "filling": [
+                "2 packages (8 oz each) Philadelphia cream cheese",
+                "½ cup sugar",
+                "1 teaspoon vanilla",
+                "3 eggs (separated)"
+            ],
+            "topping": [
+                "1 cup sour cream",
+                "½ cup sugar",
+                "1 teaspoon vanilla"
+            ]
+        },
+        "instructions": [
+            "Preheat oven to 375°F.",
+            "For the crust, mix crushed graham crackers, butter, and sugar. Press into a buttered pie plate.",
+            "For the filling, beat cream cheese, sugar, and vanilla. Add egg yolks and beat until smooth. Gently fold in beaten egg whites. Pour filling over crust and bake for 20 minutes. Cool completely.",
+            "For the topping, mix sour cream, sugar, and vanilla. Spread over cooled cheesecake. Return to the oven for 10 minutes.",
+            "Cool and top with fruit or pie filling of choice."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/cheesecake.jpg"
+    },
+    {
+        "title": "Fruit Pudding",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 cup sugar",
+            "1 cup flour",
+            "1 cup milk",
+            "2 teaspoons baking powder",
+            "1 stick butter",
+            "1 quart fruit (fresh or canned, sweetened if fresh)"
+        ],
+        "instructions": [
+            "Preheat oven to 375°F. Place butter in a glass baking dish and melt in the oven.",
+            "While butter melts, mix sugar, flour, milk, and baking powder in a bowl.",
+            "Pour batter over the melted butter in the baking dish.",
+            "Evenly distribute fruit over the batter.",
+            "Bake for 30–35 minutes, or until the top is light brown."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/fruit-pudding.jpg"
+    },
+    {
+        "title": "Chip or Veggie Dip",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Appetizer",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": true
+        },
+        "ingredients": [
+            "12 oz sour cream or half & half",
+            "2 teaspoons chili powder or 2–3 tablespoons chili seasoning",
+            "Seasoned salt, to taste",
+            "1 teaspoon paprika"
+        ],
+        "instructions": [
+            "In a bowl, mix all ingredients until smooth and well blended.",
+            "Serve chilled with chips or fresh vegetables."
+        ],
+        "serves": "6–8",
+        "image": "Images/foodPics/veggie-dip.jpg"
+    },
+    {
+        "title": "Strawberry Pretzel Jello",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": {
+            "crust": [
+                "2 cups pretzels, crushed (measure after crushing)",
+                "¼ cup sugar",
+                "1 ½ sticks margarine or butter, melted"
+            ],
+            "creamLayer": [
+                "1 cup sugar",
+                "8 oz cream cheese, softened",
+                "2 cups Cool Whip"
+            ],
+            "topping": [
+                "2 packages (3 oz each) strawberry-banana gelatin",
+                "2 cups very hot water",
+                "2 packages (10 oz each) frozen strawberries with juice"
+            ]
+        },
+        "instructions": [
+            "Preheat oven to 350°F. Combine crushed pretzels, sugar, and melted margarine. Press into a 9x13 pan. Bake for 10 minutes, then cool completely.",
+            "Beat sugar and cream cheese until smooth. Fold in Cool Whip. Spread mixture over cooled pretzel crust and refrigerate.",
+            "Dissolve gelatin in very hot water. Add frozen strawberries with juice and stir. Let mixture cool until it thickens slightly.",
+            "Pour gelatin mixture over cream cheese layer and spread evenly. Chill until fully set."
+        ],
+        "serves": "12–16",
+        "image": "Images/foodPics/strawberry-pretzel-jello.jpg"
+    },
+    {
+        "title": "Traditional Chocolate Chip Cookies",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 cup softened shortening or butter",
+            "¾ cup firmly packed brown sugar",
+            "¾ cup granulated sugar",
+            "1 teaspoon vanilla",
+            "½ teaspoon water",
+            "2 eggs",
+            "2 cups unsifted all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "1 cup chopped nuts (optional)",
+            "1 package (12 oz) semi-sweet chocolate chips"
+        ],
+        "instructions": [
+            "Preheat oven to 375°F.",
+            "In a large bowl, beat shortening or butter, sugars, vanilla, water, and eggs until light and fluffy.",
+            "In a separate bowl, combine flour, baking soda, and salt. Gradually mix into the butter mixture.",
+            "Fold in nuts (if using) and chocolate chips.",
+            "Drop teaspoon-sized balls of dough 2 inches apart onto greased baking sheets.",
+            "Bake for approximately 10 minutes, or until golden brown."
+        ],
+        "serves": "Makes about 8 dozen cookies",
+        "image": "Images/foodPics/traditional-chocolate-chip-cookies.jpg"
+    },
+    {
+        "title": "Hashbrown Casserole",
+        "kitchen": [
+            "Lori Young"
+        ],
+        "type": "Breakfast",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 bag (32 oz) frozen hashbrowns",
+            "1 can (10 oz) cream soup (chicken, mushroom, or celery)",
+            "1 bag (8 oz) shredded cheddar cheese",
+            "½ onion, chopped",
+            "Salt and pepper, to taste",
+            "2–3 tablespoons butter, divided"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F. Grease a 9x13 baking dish.",
+            "In a large bowl, mix together hashbrowns, cream soup, cheese, onion, salt, and pepper.",
+            "Transfer mixture to the prepared baking dish. Dot the top with butter.",
+            "Bake for 45 minutes, or until hot and bubbly."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/hashbrown-casserole.jpg"
+    },
+    {
+        "title": "Chicken Marsala",
+        "kitchen": [
+            "Amy Young"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "4 boneless, skinless chicken breast halves",
+            "¼ cup all-purpose flour",
+            "½ teaspoon salt",
+            "¼ teaspoon pepper",
+            "½ teaspoon dried basil",
+            "3 tablespoons butter or margarine",
+            "3 tablespoons olive oil",
+            "4–8 oz fresh mushrooms, sliced",
+            "½ cup Marsala wine"
+        ],
+        "instructions": [
+            "Pound chicken to ¼-inch thickness between two sheets of plastic wrap.",
+            "Combine flour, salt, pepper, and basil in a shallow dish. Dredge chicken in the flour mixture.",
+            "Heat butter and olive oil in a non-stick skillet over medium-high heat. Cook chicken for 2 minutes on one side.",
+            "Flip chicken and add mushrooms to the pan. Cook for another 2 minutes.",
+            "Add Marsala wine, cover, and simmer for 10 minutes.",
+            "Serve hot with cooked pasta or rice."
+        ],
+        "serves": "4",
+        "image": "Images/foodPics/chicken-marsala.jpg"
+    },
+    {
+        "title": "Persimmon Pudding",
+        "kitchen": [
+            "Aunt Connie",
+            "Lori Young"
+        ],
+        "type": "Dessert",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 cups persimmon pulp (use overly ripe persimmons)",
+            "3 cups sugar",
+            "1 teaspoon vanilla",
+            "1 stick butter, melted",
+            "4 eggs, beaten",
+            "1 cup milk",
+            "1 cup sifted flour",
+            "2 teaspoons baking powder"
+        ],
+        "instructions": [
+            "Preheat oven to 325°F. Grease a large baking pan with the butter used in the recipe (do not wash the pan after greasing).",
+            "To prepare persimmons, remove stems, cut into quarters, and pulp using a hand pulper. Avoid using a food processor.",
+            "In a bowl, mix sugar, flour, and baking powder. Set aside.",
+            "In another bowl, combine persimmon pulp, vanilla, eggs, and milk. Gradually add dry ingredients to wet ingredients, mixing until smooth.",
+            "Pour batter into the prepared pan. Bake, uncovered, for 1 hour or until a knife inserted in the center comes out clean but moist."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/persimmon-pudding.jpg"
+    },
+    {
+        "title": "Thanksgiving Mac & Cheese Casserole",
+        "kitchen": [
+            "Andrew Young"
+        ],
+        "type": "Side Dish",
+        "dietary": {
+            "vegetarian": false,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "1 box medium-shelled macaroni",
+            "3 cups shredded cheddar cheese (divided)",
+            "1–2 cups mayonnaise",
+            "1 can (10 oz) cream of mushroom soup",
+            "1 package fresh sliced mushrooms (optional)",
+            "1 teaspoon turmeric",
+            "1 teaspoon thyme",
+            "Salt and pepper, to taste",
+            "1 sleeve Ritz crackers, crushed (or 2 everything bagels, crumbled and toasted with butter)"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F. Cook macaroni according to package instructions; drain.",
+            "In a large bowl, mix cooked macaroni, 2 cups cheese, mayonnaise, cream of mushroom soup, mushrooms (if using), turmeric, thyme, salt, and pepper.",
+            "Transfer mixture to a greased baking dish. Top with remaining 1 cup cheese.",
+            "For topping, either crush crackers and sprinkle on top or use bagel crumbs (prepared as instructed).",
+            "Cover with foil and bake for 30–40 minutes. Remove foil and bake an additional 10 minutes to brown the topping."
+        ],
+        "serves": "8–10",
+        "image": "Images/foodPics/mac-and-cheese-casserole.jpg"
+    },
+    {
+        "title": "Sweet Potato Casserole",
+        "kitchen": [
+            "Seth Young"
+        ],
+        "type": "Side Dish",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "4 cups peeled, cubed sweet potatoes",
+            "2 large eggs, beaten",
+            "½ cup white sugar",
+            "½ cup milk",
+            "4 tablespoons butter, softened",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "½ cup packed brown sugar",
+            "⅓ cup all-purpose flour",
+            "3 tablespoons butter, softened",
+            "½ cup chopped pecans"
+        ],
+        "instructions": [
+            "Preheat oven to 325 degrees F (165 degrees C).",
+            "To prepare the sweet potatoes: Put sweet potatoes in a medium saucepan and cover with water. Cook over medium-high heat until tender, 10 to 15 minutes. Drain and transfer to a large bowl.",
+            "Mash drained sweet potatoes with a fork. Add eggs; mix until well combined. Add sugar, milk, butter, vanilla, and salt; mix until smooth. Transfer to a 9x13-inch baking dish.",
+            "To make the topping: Mix brown sugar and flour together in a medium bowl. Cut in butter with a pastry cutter until mixture is coarse and looks like peas; don't overmix. Stir in pecans. Sprinkle topping over sweet potato mixture.",
+            "Bake in the preheated oven until topping is lightly browned, about 30 minutes."
+        ],
+        "serves": "12",
+        "image": "Images/foodPics/sweet-potato-casserole.jpg"
+    },
+    {
+        "title": "Aunt Lynda's Mac & Cheese Whiz",
+        "kitchen": [
+            "Aunt Lynda"
+        ],
+        "type": "Main Dish",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "2 cups macaroni shells",
+            "2 cups almond milk",
+            "1/4 cup butter",
+            "1 cup Cheese Whiz",
+            "1/2 teaspoon salt (adjust to taste)"
+        ],
+        "instructions": [
+            "Cook the Pasta: Bring a large pot of salted water to a boil. Add the macaroni shells and cook according to the package instructions until al dente. Drain and set aside.",
+            "Make the Sauce: In the same pot, melt the butter over medium heat. Once melted, stir in the almond milk and salt.",
+            "Add the Cheese Whiz: Lower the heat to medium-low and whisk in the Cheese Whiz until it's fully melted and combined. The sauce should be smooth and creamy.",
+            "Combine Pasta and Sauce: Add the cooked macaroni shells back into the pot with the cheese sauce. Stir well to ensure all the pasta is evenly coated. ",
+            "Serve: Taste and adjust salt if necessary. Serve warm and enjoy your creamy shell macaroni and cheese. Don't forget to thank your Aunt Lynda!"
+        ],
+        "serves": "4-6",
+        "image": "Images/foodPics/aunt-lynda-mac-and-cheese.jpg"
+    },
+    {
+        "title": "Aunt Connie's Applesauce",
+        "kitchen": [
+            "Aunt Connie"
+        ],
+        "type": "Side Dish",
+        "dietary": {
+            "vegetarian": true,
+            "glutenFree": false
+        },
+        "ingredients": [
+            "3 pounds red-skinned apples (e.g., McIntosh, Fuji, or Red Delicious",
+            "1/2 cup water",
+            "1/2 to 3/4 cup sugar (adjust based on sweetness preference)",
+            "1 tablespoon lemon juice (optional, to enhance color and flavor"
+        ],
+        "instructions": [
+            "Prepare the Apples: Wash the apples thoroughly. Quarter and core them, but leave the skins on. The skins will provide the pink color.",
+            "Cook the Apples: Place the apples in a large pot and add the water. Cover and cook over medium heat for about 15-20 minutes, stirring occasionally, until the apples are soft.",
+            "Sweeten and Mash: Once the apples are soft, mash them with a potato masher, then use a food mill or fine mesh strainer to separate the skins from the pulp. If you don’t mind a bit of texture, you can also blend the applesauce with the skins using an immersion blender. Stir in the sugar and lemon juice while the sauce is still warm. Taste and adjust sweetness as needed.",
+            "Cool and Store: Allow the applesauce to cool, then store it in an airtight container in the refrigerator for up to a week."
+        ],
+        "serves": "8-10",
+        "image": "Images/foodPics/aunt-connie-applesauce.jpg"
+    }
+]

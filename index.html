@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>The Young Family Cookbook</title>
+    <!-- Import Font Awesome via <link> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Your Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Import Google Fonts as before -->
+  </head>
+
+<body>
+  <header>
+    <img src="Images/aunt-connie-farm3.jpg" alt="Aunt Connie's Farm" class="farm-image">
+    <div class="header-right">
+      <h1>The Young Family Cookbook</h1>
+      <div class="filters">
+        <h2>Filters</h2>
+        <div class="filter-group">
+          <label for="kitchen-filter">Kitchen</label>
+          <select id="kitchen-filter">
+            <!-- Options dynamically populated via JavaScript -->
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="type-filter">Type</label>
+          <select id="type-filter">
+            <!-- Options dynamically populated via JavaScript -->
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="dietary-filter">Dietary</label>
+          <select id="dietary-filter">
+            <!-- Options -->
+            <option value="">All</option>
+            <option value="Vegetarian">Vegetarian</option>
+            <option value="Gluten-Free">Gluten-Free</option>
+            <option value="Vegetarian & Gluten-Free">Vegetarian & Gluten-Free</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="search-bar">Search</label>
+          <input type="text" id="search-bar" placeholder="Search recipes...">
+        </div>
+        <!-- Clear Filters Button -->
+        <div class="filter-group">
+          <button id="clear-filters" class="clear-filters-button">Clear Filters</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="recipe-list" id="recipe-list">
+      <!-- Recipe cards dynamically populated via JavaScript -->
+    </section>
+    <div class="pagination" id="pagination">
+      <!-- Pagination buttons dynamically populated via JavaScript -->
+    </div>
+  </main>
+
+  <!-- Recipe Detail Modal -->
+  <div id="recipe-modal" class="modal" aria-labelledby="recipe-title" aria-describedby="recipe-details">
+    <div class="modal-content">
+      <!-- Close Button -->
+      <span class="close-button" aria-label="Close Modal">&times;</span>
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <!-- Header content will be populated via JavaScript -->
+      </div>
+
+      <!-- Modal Body -->
+      <div class="modal-body">
+        <!-- Body content will be populated via JavaScript -->
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <!-- Footer content will be populated via JavaScript -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Include jsPDF Library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <!-- Include your script.js -->
+  <script src="script.js"></script>
+</body>
+</html>

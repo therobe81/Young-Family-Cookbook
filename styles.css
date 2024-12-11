@@ -1,0 +1,588 @@
+/* styles.css */
+
+/* ------------------------------
+   1. Font Definitions
+-------------------------------- */
+
+/* Custom Font Definitions */
+@font-face {
+  font-family: 'Countryside';
+  src: url('fonts/Countryside.eot'); /* IE9 Compat Modes */
+  src: url('fonts/Countryside.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Countryside.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/Countryside.woff') format('woff'), /* Modern Browsers */
+       url('fonts/Countryside.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/Countryside.svg#Countryside') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Playfair+Display&display=swap');
+
+/* Import Font Awesome for Icons */
+/*@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');*/
+
+/* ------------------------------
+   2. Global Styles
+-------------------------------- */
+
+/* Reset some basic elements */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lora', serif;
+  background-color: #f5f5dc; /* Beige background */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------------------------
+   3. Header Styles
+-------------------------------- */
+
+header {
+  display: flex;
+  align-items: flex-start; /* Align items at the top */
+  justify-content: flex-start; /* Align items to the start */
+  padding: 20px;
+  background-color: #a0c5a6; /* Light greenish background */
+  color: #0a0a0a;
+  gap: 20px; /* Space between farm image and header-right */
+  flex-wrap: nowrap; /* Prevent wrapping */
+}
+
+.farm-image {
+  width: 25%; /* Adjusted width to 20% */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover;
+  border-radius: 8px;
+  flex: 0 1 200px; /* Prevent the image from stretching too much */
+}
+
+.header-right {
+  display: flex;
+  flex-direction: column; /* Stack title and filters vertically */
+  align-items: flex-start; /* Align items to the start */
+  flex: 1; /* Allow it to take up remaining space */
+}
+
+.header-right h1 {
+  font-family: 'Countryside', 'Playfair Display', serif; /* Applied Custom Font */
+  font-size: 3em; /* Initial large size */
+  margin: 0 0 20px 0; /* Add bottom margin to separate from filters */
+  text-align: left; /* Align text to the left */
+}
+
+/* ------------------------------
+   4. Filters Section
+-------------------------------- */
+
+.filters {
+  width: 100%; /* Make filters take full width of header-right */
+  max-width: 100%; /* Remove max-width to allow horizontal arrangement */
+  background-color: #e0e0d1; /* Light greenish background */
+  padding: 25px; /* Increased padding for larger clickable areas */
+  border-radius: 8px;
+  transition: all 0.3s ease; /* Smooth transitions */
+
+  display: flex;
+  flex-direction: column; /* Default to column for small screens */
+  gap: 20px; /* Space between filter groups */
+
+  /* New Border Styles */
+  border: 15px solid transparent; /* Adjust thickness as needed */
+  border-image: url('Images/wood-texture.jpg') 30 round; /* Adjust slice value based on your image */
+}
+
+/* Arrange filters horizontally on larger screens */
+@media (min-width: 769px) {
+  .filters {
+    flex-direction: row; /* Arrange filter groups in a row */
+    flex-wrap: wrap; /* Allow wrapping if necessary */
+    gap: 15px; /* Adjust gap between filter groups */
+    align-items: center; /* Vertically center filter groups */
+  }
+
+  .filter-group {
+    flex: 1 1 150px; /* Allow filter groups to grow and shrink */
+    min-width: 150px; /* Minimum width to maintain layout */
+  }
+}
+
+/* Keep filters stacked vertically on smaller screens */
+@media (max-width: 768px) {
+  .filters {
+    flex-direction: column; /* Stack filter groups vertically */
+    align-items: stretch; /* Stretch filter groups to full width */
+  }
+
+  .filter-group {
+    width: 100%; /* Ensure full width on small screens */
+  }
+}
+
+.filters h2 {
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 20px; /* Increased margin for better spacing */
+  font-size: 1.5em; /* Slightly larger font size */
+
+  /* Hide the Filters heading on larger screens to save space */
+  display: none;
+}
+
+@media (min-width: 769px) {
+  .filters h2 {
+    display: none; /* Optionally hide on larger screens if desired */
+  }
+}
+
+.filter-group {
+  /* The flex properties are now handled in media queries */
+}
+
+.filter-group label {
+  display: block;
+  margin-bottom: 8px; /* Increased margin for better readability */
+  font-weight: bold;
+  font-size: 1em; /* Increased font size */
+}
+
+.filter-group select,
+.filter-group input {
+  width: 100%;
+  padding: 10px; /* Increased padding for easier clicking/tapping */
+  font-size: 1em; /* Increased font size */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Clear Filters Button Styles */
+.clear-filters-button {
+  background-color: #e57373; /* A soft red color to indicate reset action */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px; /* Adds spacing above the button */
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Lora', serif;
+  font-size: 0.9em;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.clear-filters-button:hover {
+  background-color: #ef5350; /* Darker red on hover */
+  transform: translateY(-2px);
+}
+
+.clear-filters-button:active {
+  background-color: #d32f2f; /* Even darker red on click */
+  transform: translateY(0);
+}
+
+/* ------------------------------
+   5. Main Content Styles
+-------------------------------- */
+
+.container {
+  display: flex;
+  padding: 20px;
+}
+
+main {
+  flex: 1; /* Takes up remaining space */
+  display: flex;
+  flex-direction: column; /* Stack recipe-list and pagination vertically */
+}
+
+/* Updated .recipe-list grid layout with left alignment */
+.recipe-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 220px)); /* Fixed column width */
+  gap: 20px;
+  justify-content: start; /* Aligns grid items to the left */
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  background-color: #a8d5ba;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin: 0 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.pagination button:hover {
+  background-color: #7bbfa1;
+  transform: translateY(-2px);
+}
+
+.pagination button:active {
+  background-color: #5ba58e;
+  transform: translateY(0);
+}
+
+/* ------------------------------
+   6. Recipe Card Styles
+-------------------------------- */
+
+/* Recipe Card Styles with Uniform Width and Height */
+.recipe-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  width: 220px; /* Fixed width */
+  height: 260px; /* Fixed height for uniformity */
+}
+
+.recipe-card:hover {
+  transform: scale(1.02);
+  box-shadow: 4px 4px 12px rgba(0,0,0,0.2);
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 130px; /* Fixed height */
+  object-fit: cover; /* Maintains aspect ratio without distortion */
+}
+
+.recipe-card-content {
+  padding: 12px; /* Reduced padding */
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Distributes space evenly */
+  overflow: hidden; /* Prevents content overflow */
+}
+
+.recipe-card h3 {
+  margin-top: 0;
+  font-family: 'Playfair Display', serif;
+  font-size: 1em; /* Reduced font size */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; /* Prevents text from wrapping */
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap; /* Allows tags to wrap to the next line */
+  gap: 4px; /* Slightly reduced gap */
+  margin-top: 8px; /* Slightly reduced margin */
+}
+
+.tag {
+  background-color: #a8d5ba; /* Pastel green */
+  color: #fff;
+  padding: 4px 8px; /* Reduced padding */
+  border-radius: 10px; /* Slightly reduced border radius */
+  font-size: 0.7em; /* Reduced font size */
+}
+
+/* ------------------------------
+   7. Modal Styles
+-------------------------------- */
+
+/* Modal Styles */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.5); /* Black with opacity */
+
+  opacity: 0; /* Fully transparent */
+  transition: opacity 0.3s ease-in-out; /* Smooth fade-in and fade-out */
+
+  /* Flexbox properties are moved to .modal.show to avoid conflicts */
+}
+
+.modal.show {
+  display: flex; /* Display as flex when modal is shown */
+  align-items: flex-start; /* Align items to the top */
+  justify-content: center; /* Center horizontally */
+  opacity: 1; /* Fully opaque */
+}
+
+.modal-content {
+  background-image: url('Images/paper-texture4.jpg'); /* Paper texture background */
+  background-size: cover; /* Ensures the texture covers the entire modal */
+  background-repeat: no-repeat;
+  background-position: center;
+
+  border: 4px solid #a8d5ba; /* Thicker pastel green border */
+  border-radius: 12px; /* Rounded corners for elegance */
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.05), 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+
+  padding: 20px; /* Increased padding for better spacing */
+  margin: 3% auto; /* Reduced top margin from 5% to 3% */
+
+  width: 80%; /* Width can be adjusted based on design preference */
+  max-width: 600px; /* Ensures the modal doesn't become too wide on large screens */
+
+  position: relative; /* For positioning the close button */
+
+  transition: all 0.3s ease-in-out; /* Smooth transition for opening and closing */
+
+  /* Handle long content */
+  max-height: 90vh; /* Maximum height of 90% of the viewport height */
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds max-height */
+
+  /* Smooth scroll behavior */
+  scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar Styles (Optional) */
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background: #a8d5ba;
+  border-radius: 4px;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background: #7bbfa1;
+}
+
+.close-button {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  cursor: pointer;
+  transition: color 0.2s ease-in-out;
+}
+
+.close-button:hover,
+.close-button:focus {
+  color: black;
+  text-decoration: none;
+}
+
+/* Modal Header Styles */
+.modal-header {
+  border-bottom: 1px solid #a8d5ba; /* Pastel green underline */
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.modal-header h2 {
+  font-family: 'Dancing Script', cursive; /* Decorative font */
+  font-size: 2em;
+  color: #333;
+  margin: 0;
+}
+
+.modal-header h2 i {
+  margin-right: 8px;
+  color: #a8d5ba; /* Pastel green color for the icon */
+}
+
+/* Modal Footer Styles */
+.modal-footer {
+  border-top: 1px solid #a8d5ba; /* Pastel green top border */
+  padding-top: 10px;
+  margin-top: 15px;
+  text-align: right; /* Align buttons to the right */
+}
+
+.modal-footer button i {
+  margin-right: 5px;
+}
+
+/* Modal Section Styles */
+.modal-section h4 {
+  font-family: 'Playfair Display', serif; /* Existing font for subheadings */
+  font-size: 1.2em;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #a8d5ba; /* Underline for separation */
+  padding-bottom: 3px;
+}
+
+.modal-section ul,
+.modal-section ol {
+  margin-top: 0;
+  padding-left: 20px;
+}
+
+.modal-section ul li,
+.modal-section ol li {
+  margin-bottom: 5px;
+}
+
+/* Enhanced Button Styles */
+#modal-body button,
+.modal-footer button {
+  background-color: #a8d5ba; /* Pastel green */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 5px 0 0;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Lora', serif;
+  font-size: 0.9em;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+#modal-body button:hover,
+.modal-footer button:hover {
+  background-color: #7bbfa1; /* Darker pastel green on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+#modal-body button:active,
+.modal-footer button:active {
+  background-color: #5ba58e; /* Even darker pastel green on click */
+  transform: translateY(0); /* Reset position */
+}
+
+/* ------------------------------
+   8. Responsive Design
+-------------------------------- */
+
+@media (max-width: 1024px) {
+  /* Adjust filters width on medium screens */
+  .filters {
+    width: 200px;
+    padding: 20px; /* Maintain increased padding */
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column; /* Stack items vertically on small screens */
+    align-items: center; /* Center align items */
+    text-align: center;
+  }
+
+  .header-right {
+    align-items: center; /* Center align content */
+  }
+
+  .header-right h1 {
+    font-size: 2.5em; /* Reduced font size for small screens */
+    margin: 10px 0 10px 0; /* Adjust margins */
+    text-align: center; /* Center text */
+  }
+
+  .filters {
+    width: 100%; /* Make filters occupy full width */
+    margin: 20px 0 0 0; /* Top margin for spacing */
+    padding: 20px; /* Maintain increased padding for usability */
+    font-size: 1.1em; /* Increase font size for better interaction */
+    max-width: 100%; /* Remove max-width for full-width on small screens */
+  }
+
+  /* Hide the farm image on mobile view */
+  .farm-image {
+    display: none;
+  }
+  
+  /* Adjust grid for smaller screens */
+  .recipe-list {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 220px)); /* Adjusted for smaller cards */
+  }
+
+  .modal-content {
+    width: 95%;
+    /* Adjusted top margin if needed */
+    margin: 2% auto; /* Further reduce top margin */
+    max-height: 80vh; /* Adjust max-height for mobile */
+  }
+
+  /* Adjust font sizes for smaller screens */
+  .modal-header h2 {
+    font-size: 1.5em; /* Adjust font size for smaller screens */
+  }
+
+  .modal-section h4 {
+    font-size: 1em; /* Adjust font size */
+  }
+}
+
+/* ------------------------------
+   9. Print Styles
+-------------------------------- */
+
+/* Comprehensive Print Styles */
+@media print {
+  /* Hide everything */
+  body * {
+    visibility: hidden;
+  }
+
+  /* Show only the modal when it's active */
+  .modal.show, .modal.show * {
+    visibility: visible;
+  }
+
+  /* Position the modal at the top-left corner and occupy full width */
+  .modal.show .modal-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    border: none;
+    background: none; /* Remove background image/textures for cleaner print */
+    box-shadow: none; /* Remove shadows */
+    padding: 0; /* Remove padding if necessary */
+  }
+
+  /* Hide the modal overlay */
+  .modal {
+    background-color: transparent;
+  }
+
+  /* Optional: Adjust typography for better print readability */
+  .modal-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .modal-content p, 
+  .modal-content h4, 
+  .modal-content ul, 
+  .modal-content ol {
+    font-size: 14px;
+  }
+
+  /* Hide the close button and modal footer (already handled) */
+  .close-button, 
+  .modal-footer {
+    display: none;
+  }
+}
